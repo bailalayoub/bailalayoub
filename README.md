@@ -103,9 +103,9 @@ Rigoureux et orienté performance, je contribue à la conception d'architectures
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bailalayoub&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=aaaaaa&count_private=true)
+![GitHub Stats](https://github-readme-stats-sandy-ten.vercel.app/api?username=bailalayoub&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=aaaaaa&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bailalayoub&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa)
+![Top Languages](https://github-readme-stats-sandy-ten.vercel.app/api/top-langs/?username=bailalayoub&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&count_private=true)
 
 </div>
 
