@@ -13,7 +13,7 @@
 
 ## About Me
 
-Ingénieur IT diplômé de l'**ENSAO**, avec **+1 an d'expérience** en tant que Software Engineer au sein d'une plateforme EdTech. Spécialisé en développement backend **Go** dans une architecture **microservices** (API sécurisées, PostgreSQL, Redis, MinIO), conception de fonctionnalités d'**IA générative** (RAG, embeddings, intégration OpenAI) et déploiement cloud via **Docker** et **CI/CD**.
+Ingénieur IT diplômé de l'**ENSAO**, avec **+2 an d'expérience** en tant que Software Engineer au sein d'une plateforme EdTech. Spécialisé en développement backend **Go** dans une architecture **microservices** (API sécurisées, PostgreSQL, Redis, MinIO), conception de fonctionnalités d'**IA générative** (RAG, embeddings, intégration OpenAI) et déploiement cloud via **Docker** et **CI/CD**.
 
 Rigoureux et orienté performance, je contribue à la conception d'architectures scalables, à l'optimisation des bases de données et au développement d'interfaces **React/TypeScript** — avec une vision fullstack allant de l'infrastructure à l'expérience utilisateur.
 
