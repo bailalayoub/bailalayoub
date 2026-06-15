@@ -140,6 +140,8 @@ Rigoureux et orienté performance, je contribue à la conception d'architectures
 
 **Email :** bailalayoub4905@gmail.com
 
+**Portfolio :** https://www.bailalayoub.com/
+
 **LinkedIn :** https://www.linkedin.com/in/ayoubbailal
 
 **Téléphone :** +212 708342354
