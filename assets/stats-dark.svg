@@ -8,12 +8,12 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">BAILAL Ayoub's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  : 3677, Total PRs: 423, Total Issues: 19, Contributed to (last year): 18</desc>
+        <title id="titleId">BAILAL Ayoub&#39;s GitHub Stats, Rank: B</title>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  : 3680, Total PRs: 423, Total Issues: 19, Contributed to (last year): 18</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #ffffff;
+            fill: #4493f8;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #aaaaaa;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #9198a1;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #aaaaaa;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9198a1;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #58a6ff;
+      fill: #4493f8;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #ffffff;
+      stroke: #4493f8;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #ffffff;
+      stroke: #4493f8;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,11 +73,12 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 133.85773748780184;
+        stroke-dashoffset: 133.850934548998;
       }
     }
   
   
+          
 
           
       /* Animations */
@@ -102,14 +103,20 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
           height="99%"
-          stroke="#e4e2e2"
+          stroke="#3d444d"
           width="466"
           fill="#0d1117"
           stroke-opacity="0"
@@ -126,7 +133,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >BAILAL Ayoub's GitHub Stats</text>
+      >BAILAL Ayoub&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -159,7 +166,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Stars Earned:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="stars"
       >1</text>
@@ -174,7 +181,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Commits:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="commits"
       >3.7k</text>
@@ -189,7 +196,7 @@
       <text class="stat  bold" x="25" y="12.5">Total PRs:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="prs"
       >423</text>
@@ -204,7 +211,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Issues:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="issues"
       >19</text>
@@ -219,7 +226,7 @@
       <text class="stat  bold" x="25" y="12.5">Contributed to (last year):</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="contribs"
       >18</text>
