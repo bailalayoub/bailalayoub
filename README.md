@@ -30,13 +30,9 @@
 
 ## About Me
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="180" alt="Animated illustration of a developer coding at a desk">
-
 IT engineer from **ENSAO**, with **2+ years of experience** as a Software Engineer on an EdTech platform. I specialise in **Go** backend development in a **microservices** architecture (secure APIs, PostgreSQL, Redis, MinIO), in **generative AI** features (RAG, embeddings, LLM agents, OpenAI integration), and in cloud deployment with **Docker** and **CI/CD**.
 
 I care about systems that stay correct when the network, the model or the server does not. I work across the stack, from infrastructure and databases to **React/TypeScript** interfaces.
-
-<br clear="right">
 
 ---
 
