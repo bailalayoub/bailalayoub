@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-labelledby="title">
+  <title id="title">Rebound: open-source Go library that makes streamed LLM answers resumable</title>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#8b949e"/>
+    </marker>
+  </defs>
+  <rect x="0.5" y="0.5" width="899" height="319" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="40" y="46" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2" fill="#58a6ff">FEATURED PROJECT</text>
+  <text x="860" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8b949e">github.com/bailalayoub/rebound →</text>
+  <text x="38" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#e6edf3">Rebound</text>
+  <text x="40" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="19" fill="#8b949e">Open-source Go library that makes streamed LLM answers resumable</text>
+
+  <rect x="40" y="160" width="150" height="42" rx="6" fill="none" stroke="#3fb950"/>
+  <text x="115" y="186" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#3fb950">generation</text>
+  <text x="115" y="222" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">own goroutine</text>
+  <line x1="192" y1="181" x2="216" y2="181" stroke="#8b949e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <text x="222" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">numbered log · memory or Redis Streams</text>
+  <rect x="222" y="160" width="42" height="42" rx="6" fill="#1f6feb" fill-opacity="0.9" stroke="#1f6feb"/>
+  <text x="243" y="187" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#ffffff">1</text>
+  <rect x="272" y="160" width="42" height="42" rx="6" fill="#1f6feb" fill-opacity="0.9" stroke="#1f6feb"/>
+  <text x="293" y="187" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#ffffff">2</text>
+  <rect x="322" y="160" width="42" height="42" rx="6" fill="#1f6feb" fill-opacity="0.9" stroke="#1f6feb"/>
+  <text x="343" y="187" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#ffffff">3</text>
+  <rect x="372" y="160" width="42" height="42" rx="6" fill="#1f6feb" fill-opacity="0.9" stroke="#1f6feb"/>
+  <text x="393" y="187" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#ffffff">4</text>
+  <rect x="422" y="160" width="42" height="42" rx="6" fill="none" fill-opacity="0" stroke="#58a6ff" stroke-dasharray="4 3"/>
+  <text x="443" y="187" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#58a6ff">5</text>
+  <rect x="472" y="160" width="42" height="42" rx="6" fill="none" fill-opacity="0" stroke="#58a6ff" stroke-dasharray="4 3"/>
+  <text x="493" y="187" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#58a6ff">6</text>
+  <rect x="522" y="160" width="42" height="42" rx="6" fill="none" fill-opacity="0" stroke="#58a6ff" stroke-dasharray="4 3"/>
+  <text x="543" y="187" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#58a6ff">7</text>
+  <rect x="572" y="160" width="42" height="42" rx="6" fill="none" fill-opacity="0" stroke="#58a6ff" stroke-dasharray="4 3"/>
+  <text x="593" y="187" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#58a6ff">8</text>
+
+  <path d="M 450 206 C 470 240, 640 240, 676 200" fill="none" stroke="#58a6ff" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="560" y="250" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">replay + live, same read</text>
+
+  <rect x="680" y="160" width="180" height="42" rx="6" fill="none" stroke="#58a6ff"/>
+  <text x="770" y="186" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#58a6ff">SSE client</text>
+  <text x="770" y="222" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b949e">Last-Event-ID: 4</text>
+
+  <rect x="40" y="262" width="42" height="28" rx="14" fill="none" stroke="#30363d"/>
+  <text x="61.0" y="281" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#e6edf3">Go</text>
+  <rect x="92" y="262" width="141" height="28" rx="14" fill="none" stroke="#30363d"/>
+  <text x="162.5" y="281" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#e6edf3">Redis Streams</text>
+  <rect x="243" y="262" width="51" height="28" rx="14" fill="none" stroke="#30363d"/>
+  <text x="268.5" y="281" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#e6edf3">Lua</text>
+  <rect x="304" y="262" width="114" height="28" rx="14" fill="none" stroke="#30363d"/>
+  <text x="361.0" y="281" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#e6edf3">TypeScript</text>
+  <text x="860" y="281" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">~104,000 reconnections · 12 scenarios · zero failures</text>
+</svg>
